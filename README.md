@@ -18,8 +18,6 @@ Our project is to uncover patterns in music on Spotify between 2010 and 2019. We
 
 * What is the most popular genre?
 
-* What is the least popular genre?
-
 * Who is the most popular artist?
 
 *Who is the least popular artist?
