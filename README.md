@@ -20,7 +20,7 @@ Our project is to uncover patterns in music on Spotify between 2010 and 2019. We
 
 * Who is the most popular artist?
 
-*Who is the least popular artist?
+
 
 # Tasks
 * Collect the Data
